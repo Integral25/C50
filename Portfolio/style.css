@@ -1,0 +1,61 @@
+h1 {
+    font-family: 'Open Sans';
+    font-size: 40px;
+    background-color: #AAAAAA;
+}
+
+p {
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 40% 30% 30%;
+}
+
+.text_container {
+    display: grid;
+    grid-template-columns: 33% 33% 34%;
+    text-align: center;
+}
+
+.top_container {
+    display: grid;
+    grid-template-columns: 60% 20% 20%;
+}
+
+.crane_image {
+    width: 350px;
+}
+
+.butterfly_image {
+    width: 350px;
+}
+
+.boat_image {
+    width: 350px;
+}
+
+.bold_p {
+    font-weight: bold;
+}
+
+.h3_info {
+    font-size: 22px;
+    color: gray;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.h3_info:hover {
+    color: blue;
+}
+
+.menu {
+
+}
+
+.header {
+    
+}
